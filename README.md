@@ -32,3 +32,9 @@ CleanAir AI aims to bridge this gap by combining basic machine learning predicti
 - City-based forecasting
 - Mobile interface
 - IoT sensor integration
+
+## Status
+
+🚧 Work in Progress
+
+This project is currently under development as part of a climate and environment innovation concept.
